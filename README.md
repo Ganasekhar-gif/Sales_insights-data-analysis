@@ -36,7 +36,7 @@ To view the full Power BI report and explore the interactive visualizations:
 Here are some key visualizations from the report:
 
 ### Revenue by Market
-![Revenue by Market](screenshots/revenue_by_market.png)
+https://github.com/user-attachments/assets/73608f23-37b5-4255-82a7-5552a6723e1e
 
 ### Top 5 Customers by Revenue
 ![Top 5 Customers](screenshots/top_customers.png)
