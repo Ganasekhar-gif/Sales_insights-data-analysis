@@ -1,5 +1,10 @@
 # Revenue and Sales Insights Data Analysis Project
 
+## How to View the Power BI Report
+To view the full Power BI report and explore the interactive visualizations:
+1. Download the `.pbix` file from this: (https://drive.google.com/file/d/1vl-reCqXO-ZeIUr0MimU9QVvazkioQyI/view?usp=sharing)
+2. Open the file in Power BI Desktop.
+
 ## Project Overview
 This project aims to analyze sales data and provide actionable insights for business decision-making. By examining key metrics such as revenue, sales quantity, and top-performing customers and products, we can better understand market performance and identify opportunities for growth.
 
@@ -27,11 +32,6 @@ The business is seeking a deeper understanding of sales performance across diffe
 - **Top Customers**: A few customers contribute to a large share of revenue, underscoring the importance of maintaining strong relationships with these clients.
 - **Top Products**: The highest-grossing products indicate trends in customer preferences, which can inform future product line expansions.
 
-## How to View the Power BI Report
-To view the full Power BI report and explore the interactive visualizations:
-1. Download the `.pbix` file from this: (https://drive.google.com/file/d/1vl-reCqXO-ZeIUr0MimU9QVvazkioQyI/view?usp=sharing)
-2. Open the file in Power BI Desktop.
-
 ## Screenshots
 Here are some key visualizations from the report:
 
@@ -43,6 +43,9 @@ https://github.com/user-attachments/assets/35e1aea9-5bbb-4ce0-a292-19650bd73921
 
 ### Sales Quantity by Market
 https://github.com/user-attachments/assets/4e36a38a-122c-492d-928f-3021e92d95ed
+
+### Revenue Trend
+https://github.com/user-attachments/assets/a036bd5f-6bb2-49ee-98c8-c8d4a36f951d
 
 ## Technologies Used
 - **Power BI**: Data visualization and dashboard creation
