@@ -39,7 +39,7 @@ Here are some key visualizations from the report:
 https://github.com/user-attachments/assets/73608f23-37b5-4255-82a7-5552a6723e1e
 
 ### Top 5 Customers by Revenue
-![Top 5 Customers](screenshots/top_customers.png)
+https://github.com/user-attachments/assets/35e1aea9-5bbb-4ce0-a292-19650bd73921
 
 ## Technologies Used
 - **Power BI**: Data visualization and dashboard creation
