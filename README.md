@@ -41,10 +41,14 @@ https://github.com/user-attachments/assets/73608f23-37b5-4255-82a7-5552a6723e1e
 ### Top 5 Customers by Revenue
 https://github.com/user-attachments/assets/35e1aea9-5bbb-4ce0-a292-19650bd73921
 
+### Sales Quantity by Market
+https://github.com/user-attachments/assets/4e36a38a-122c-492d-928f-3021e92d95ed
+
 ## Technologies Used
 - **Power BI**: Data visualization and dashboard creation
 - **SQL**: Data querying and preparation
-
+- **SQL workbench**: SQL server
+  
 ## Conclusion
 This project successfully provides a clear view of sales performance across various markets and customer segments, enabling the business to make informed, data-driven decisions. The insights derived from this analysis can guide strategic initiatives in marketing, customer relationship management, and product development.
 
