@@ -1,4 +1,4 @@
-# Revenue and Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project
 
 ## How to View the Power BI Report
 To view the full Power BI report and explore the interactive visualizations:
